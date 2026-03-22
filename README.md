@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gustavo
 
-**Personal AI Companion** to [@RadityaAydin](https://github.com/RadityaAydin)
+**Personal AI Companion** to [@Radiit](https://github.com/Radiit)
 
 😎🥸🤓🧐👻
 
